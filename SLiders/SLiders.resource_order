@@ -1,0 +1,21 @@
+{
+  "FolderOrderSettings":[
+    {"name":"FONTS","order":2,"path":"folders/FONTS.yy",},
+    {"name":"OBJECTS","order":3,"path":"folders/OBJECTS.yy",},
+    {"name":"SPRITES","order":1,"path":"folders/SPRITES.yy",},
+  ],
+  "ResourceOrderSettings":[
+    {"name":"obj_slider_circle","order":1,"path":"objects/obj_slider_circle/obj_slider_circle.yy",},
+    {"name":"obj_slider_disk","order":2,"path":"objects/obj_slider_disk/obj_slider_disk.yy",},
+    {"name":"obj_slider_hor_left","order":6,"path":"objects/obj_slider_hor_left/obj_slider_hor_left.yy",},
+    {"name":"obj_slider_hor_right","order":4,"path":"objects/obj_slider_hor_right/obj_slider_hor_right.yy",},
+    {"name":"obj_slider_ver_down","order":8,"path":"objects/obj_slider_ver_down/obj_slider_ver_down.yy",},
+    {"name":"obj_slider_ver_up","order":5,"path":"objects/obj_slider_ver_up/obj_slider_ver_up.yy",},
+    {"name":"spr_bar_vert","order":7,"path":"sprites/spr_bar_vert/spr_bar_vert.yy",},
+    {"name":"spr_circle","order":2,"path":"sprites/spr_circle/spr_circle.yy",},
+    {"name":"spr_ring","order":1,"path":"sprites/spr_ring/spr_ring.yy",},
+    {"name":"spr_slider_circle","order":4,"path":"sprites/spr_slider_circle/spr_slider_circle.yy",},
+    {"name":"spr_slider_end","order":5,"path":"sprites/spr_slider_end/spr_slider_end.yy",},
+    {"name":"spr_slider","order":3,"path":"sprites/spr_slider/spr_slider.yy",},
+  ],
+}
